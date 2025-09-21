@@ -1,5 +1,5 @@
-# 👋 Hi, I’m DreadKng
-🚀 Aspiring Engineer | Developer | Maker | Student
+# 👋 Hi, I’m Dread.
+🚀 Aspiring Engineer | Developer | Maker | Student |
 
 ## 🔥 Skills
 - Arduino, Python, C++  
